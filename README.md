@@ -80,6 +80,7 @@ DevScope integrates with GitHub to fetch your contribution data and visualizes i
 
 📤 Export to Notion or resume builder formats
 
+---
 
 🙌 Acknowledgements
 
