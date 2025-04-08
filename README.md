@@ -73,7 +73,7 @@ DevScope integrates with GitHub to fetch your contribution data and visualizes i
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/devscope.git
+git clone https://github.com/Abhishhek-Verma/devscope.git
 cd devscope
 
 # 2. Install dependencies
