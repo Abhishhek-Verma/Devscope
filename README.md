@@ -81,3 +81,30 @@ npm install
 
 # 3. Setup environment variables
 touch .env
+
+
+🎁 Bonus Features 
+🏆 GitHub Contributor Leaderboard
+
+⏰ Daily sync with GitHub using webhooks
+
+📤 Export to Notion or resume builder formats
+
+
+🙌 Acknowledgements
+GitHub GraphQL API
+
+OpenAI API
+
+Recharts
+
+Tailwind CSS
+
+Prisma / Supabase
+
+
+🧪 Status
+🚧 In Development — contributions, feedback, and ideas are welcome!
+
+
+
