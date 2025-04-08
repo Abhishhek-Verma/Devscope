@@ -83,7 +83,8 @@ npm install
 touch .env
 
 
-🎁 Bonus Features 
+🎁 Bonus Features
+ 
 🏆 GitHub Contributor Leaderboard
 
 ⏰ Daily sync with GitHub using webhooks
@@ -92,15 +93,16 @@ touch .env
 
 
 🙌 Acknowledgements
-GitHub GraphQL API
 
-OpenAI API
+* GitHub GraphQL API
 
-Recharts
+* OpenAI API
 
-Tailwind CSS
+* Recharts
 
-Prisma / Supabase
+* Tailwind CSS
+
+* Prisma / Supabase
 
 
 🧪 Status
