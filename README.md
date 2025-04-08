@@ -69,18 +69,7 @@ DevScope integrates with GitHub to fetch your contribution data and visualizes i
 
 ---
 
-## 🛠 Setup Instructions
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/Abhishhek-Verma/devscope.git
-cd devscope
-
-# 2. Install dependencies
-npm install
-
-# 3. Setup environment variables
-touch .env
 
 
 🎁 Bonus Features
