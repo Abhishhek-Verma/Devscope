@@ -94,6 +94,7 @@ DevScope integrates with GitHub to fetch your contribution data and visualizes i
 
 * Prisma / Supabase
 
+---
 
 🧪 Status
 🚧 In Development — contributions, feedback, and ideas are welcome!
