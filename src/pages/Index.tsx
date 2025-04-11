@@ -6,7 +6,7 @@ import { useAuth } from "@/contexts/AuthContext";
 const Index = () => {
   const { user, isLoading } = useAuth();
 
-  // Redirect to dashboard if already logged in
+  // Redirect to dashboard if already logged in to it
   if (user && !isLoading) {
     return <Navigate to="/dashboard" />;
   }
